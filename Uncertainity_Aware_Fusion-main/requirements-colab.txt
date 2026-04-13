@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+tqdm
+datasets
+transformers>=4.46
+accelerate
+bitsandbytes
+sentencepiece
+sentence-transformers
