@@ -1,5 +1,5 @@
 """
-Configuration for Uncertainty-Aware Ensemble Framework (UAF)
+Configuration for Uncertainty-Aware Ensemble Framework (UAF
 
 Tuned for Apple Silicon M3 Pro (18 GB unified memory).
 Models are ordered roughly by size — smallest first so the
