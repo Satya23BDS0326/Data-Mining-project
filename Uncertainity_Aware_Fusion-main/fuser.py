@@ -59,7 +59,7 @@ def fuse_single_example(
             best_model = model with highest individual w_k among those that
                          voted for the winning choice (for attribution only)
     """
-    vote_weights: Dict[int, float] = {}
+    vote_weights: Dict[int, float] = {
     model_wk:     Dict[str, float] = {}
 
     for model_name, pred_dict in example_preds.items():
