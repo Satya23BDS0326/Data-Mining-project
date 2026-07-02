@@ -109,7 +109,7 @@ def format_prompt(question: str, choice: str) -> str:
     Returns:
         str: Formatted prompt in the form "Q: {question}\nA: {choice}"
     """
-    return f"Q: {question}\nA: {choice}
+    return f"Q: {question}\nA: {choice}"
 
 
 def evaluate_mc1(example: dict, predicted_idx: int) -> int:
