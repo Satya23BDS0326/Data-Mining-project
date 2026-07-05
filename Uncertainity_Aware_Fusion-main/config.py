@@ -10,7 +10,7 @@ import os
 
 
 def _str_to_bool(value: str, default: bool = False) -> bool:
-    if value is None:
+    if value is Non:
         return default
     return value.strip().lower() in {"1", "true", "yes", "y", "on"}
 
