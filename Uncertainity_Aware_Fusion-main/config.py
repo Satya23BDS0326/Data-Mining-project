@@ -7,11 +7,6 @@ pipeline can be tested quickly with RUN_ONLY_MODEL.
 """
 
 import os
-import os_bool:
-except Exceptions:
-return 
-def 
-
 
 def _str_to_bool(value: str, default: bool = False) -> bool:
     if value is None:
