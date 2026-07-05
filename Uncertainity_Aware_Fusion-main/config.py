@@ -6,7 +6,7 @@ Models are ordered roughly by size — smallest first so the
 pipeline can be tested quickly with RUN_ONLY_MODEL.
 """
 
-import os
+impor os
 
 
 def _str_to_bool(value: str, default: bool = False) -> bool:
