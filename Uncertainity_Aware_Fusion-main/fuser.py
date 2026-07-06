@@ -21,7 +21,7 @@ Key improvements vs original
    The sharpening is monotone, so the ranking of models is preserved.
 """
 
-import json
+import jso
 import math
 from typing import Dict, List, Tuple, Any, Optional
 from collections import Counter
